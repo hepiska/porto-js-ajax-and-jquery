@@ -1,0 +1,13 @@
+.box {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.container{
+  margin-left: 400px;
+  margin-right: 400px;
+}
+#div1{
+  text-align: center;
+}
